@@ -1,5 +1,6 @@
 # simple-web-crawler
 A simple web crawler example with Python3, requests2 and BeautifulSoup4
+Data resource: https://www.wantgoo.com/
 
 ## How to run ?
 Pre-Step
