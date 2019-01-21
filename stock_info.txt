@@ -1,0 +1,14 @@
+Stock Name: 
+        元大台灣500050
+
+ Bid Price: 76.50
+ Change▲0.55
+
+
+Stock Name: 
+        台積電2330
+
+ Bid Price: 221.00
+ Change▲2.50
+
+
