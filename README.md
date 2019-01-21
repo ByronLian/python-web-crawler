@@ -1,2 +1,2 @@
 # simple-web-crawler
-Simple web crawler with Python3, requests2 and BeautifulSoup4 
+A simple web crawler example with Python3, requests2 and BeautifulSoup4
