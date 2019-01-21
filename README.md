@@ -1,6 +1,6 @@
 # simple-web-crawler
-A simple web crawler example with Python3, requests2 and BeautifulSoup4
-Data resource: https://www.wantgoo.com/
+* A simple web crawler example with Python3, requests2 and BeautifulSoup4
+* Data resource: https://www.wantgoo.com/
 
 ## How to run ?
 Pre-Step
@@ -24,7 +24,6 @@ Run application
 * BeautifulSoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 # Disclaimer
-This is just a simple experiment. Please don't use it in any illegal way. 
-Otherwise, you will bear legal responsibility by yourself
+* This is just a simple experiment. Please don't use it in any illegal way. Otherwise, you will bear legal responsibility by yourself
 
-此程式為實驗性質, 任何不當使用請自負法律責任
+* 此程式為實驗性質, 任何不當使用請自負法律責任
